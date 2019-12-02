@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tzach\\Desktop\\Recyclerview-master\\RecyclerView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\tzach\\Desktop\\mobile\\HW\\RecyclerView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tzach\\.gradle\\caches\\transforms-2\\files-2.1\\fdf08a5e41874bdb047d540ccbc60022\\constraint-layout-1.0.2\\res\\values\\values.xml",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tzach\\Desktop\\Recyclerview-master\\RecyclerView\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "118,119,120",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6239,6285,6332",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6280,6327,6378"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\tzach\\Desktop\\Recyclerview-master\\RecyclerView\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\tzach\\Desktop\\mobile\\HW\\RecyclerView\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -54,25 +37,6 @@
                         "startOffsets": "20489",
                         "endColumns": "49",
                         "endOffsets": "20534"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\tzach\\Desktop\\Recyclerview-master\\RecyclerView\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "341",
-                        "startColumns": "4",
-                        "startOffsets": "21105",
-                        "endLines": "346",
-                        "endColumns": "12",
-                        "endOffsets": "21419"
                     }
                 },
                 {
@@ -112,6 +76,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\tzach\\Desktop\\mobile\\HW\\RecyclerView\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "341",
+                        "startColumns": "4",
+                        "startOffsets": "21105",
+                        "endLines": "346",
+                        "endColumns": "12",
+                        "endOffsets": "21419"
+                    }
+                },
+                {
                     "source": "C:\\Users\\tzach\\.gradle\\caches\\transforms-2\\files-2.1\\aaaf30aacecb06a81b2ad7c2787117d5\\recyclerview-v7-27.0.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "3,4,5,6,7,8,9,2",
@@ -126,6 +109,23 @@
                         "startOffsets": "14778,14837,14885,15552,15627,15703,17593,138542",
                         "endColumns": "58,47,55,74,75,71,65,629",
                         "endOffsets": "14832,14880,14936,15622,15698,15770,17654,139167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tzach\\Desktop\\mobile\\HW\\RecyclerView\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "118,119,120",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6239,6285,6332",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6280,6327,6378"
                     }
                 },
                 {

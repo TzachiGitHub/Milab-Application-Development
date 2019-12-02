@@ -53,7 +53,31 @@ public class MainActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item){
         int id = item.getItemId();
         if (id == android.R.id.home) {
+//            setContentView(R.layout.openup);
             setContentView(R.layout.openup);
+
+            // Stark button listener
+            Sbutton = findViewById(R.id.Sbutton);
+            Sbutton.setOnClickListener(new View.OnClickListener(){
+                @Override
+                public void onClick(View v){
+                    // After the button is clicked - it sends the user to the RecyclerViewr with the proper photos of the Starks
+                    setContentView(R.layout.activity_main);
+                    initImageBitmaps(1);
+                }
+            });
+
+            // Lannister button listener
+            Lbutton = findViewById(R.id.Lbutton);
+            Lbutton.setOnClickListener(new View.OnClickListener(){
+                @Override
+                public void onClick(View v){
+                    // After the button is clicked - it sends the user to the RecyclerViewr with the proper photos of the Lannisters
+                    setContentView(R.layout.activity_main);
+                    initImageBitmaps(0);
+                }
+            });
+
         }
         return super.onOptionsItemSelected(item);
     }
