@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038174278468",
+    "firebase_url": "https://stocksfirebasepushnotification.firebaseio.com",
+    "project_id": "stocksfirebasepushnotification",
+    "storage_bucket": "stocksfirebasepushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038174278468:android:c037b2bfdc565a38a37d11",
+        "android_client_info": {
+          "package_name": "com.example.stocksfirebasepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038174278468-heqo118t23qt403o2thv8fclmvpul2ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stocksfirebasepushnotifications",
+            "certificate_hash": "43b42cad97a18b934341f110f35119ad94c3418a"
+          }
+        },
+        {
+          "client_id": "1038174278468-jhjspjgsv3h2bmld9nmclvhv7lojbe11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFok9lXTeehasXfMRNTox_77-w0aDX1EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038174278468-jhjspjgsv3h2bmld9nmclvhv7lojbe11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
