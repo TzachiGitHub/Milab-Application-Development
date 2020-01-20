@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/mitchtabian/ForSale-Starting-Point.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TzachiGitHub/MilabEmotionalClarity" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\tzach\Desktop\mobile" />
+    <option name="cloneParentDir" value="C:\Users\tzach\Desktop\Milab\Apps" />
   </component>
 </application>
